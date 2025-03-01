@@ -22,4 +22,3 @@ i'm happy to turn this into something more meaningful. request features by creat
 potential features:
 - file preview
 - locked dataroom
-- 
